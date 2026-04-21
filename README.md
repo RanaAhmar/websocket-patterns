@@ -6,6 +6,7 @@
 A definitive collection of production-grade architectural patterns for WebSockets. Stop guessing how to handle reconnects, scaling, and dropped packets—use these battle-tested concepts.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,4 +24,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
